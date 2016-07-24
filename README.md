@@ -1,5 +1,1 @@
-This package contains:
-
-### readDirectoryNamesInPathSync(absPath: string): string[]
-
-### readDirectoryNamesInPath(absPath: string, cb: (e: Error, dirNames?: string[]) => any): any
+Don't use this. Use [https://github.com/justin-calleja/dirs](https://github.com/justin-calleja/dirs) instead. (same thing, better name - this package is waiting to be unpublished. I will delete this repo once npm does this).
